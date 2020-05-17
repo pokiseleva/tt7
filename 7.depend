@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589726887 source:c:\users\polina\desktop\7\main.cpp
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
